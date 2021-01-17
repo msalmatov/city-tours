@@ -14,7 +14,7 @@ export default class Tour extends Component {
             <i className="fas fa-window-close" />
           </span>
         </div>
-        <div className="tourinfo">
+        <div className="tour-info">
           <h3>{city}</h3>
           <h4>{name}</h4>
           <h5>
