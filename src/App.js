@@ -1,11 +1,13 @@
 import "@fortawesome/fontawesome-free/css/all.min.css";
+import React, { Fragment } from "react";
 import './App.scss';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
-    <div>
-      <h1>Our current app</h1>
-    </div>
+    <Fragment>
+      <Navbar />
+    </Fragment>
   );
 }
 
