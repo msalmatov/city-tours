@@ -2,4 +2,4 @@
 
 This source code is just to practice React.
 
-Test it [here](https://city-tours-site-example.netlify.app/)
+Test it [here](https://city-tours-react-example.netlify.app/)
